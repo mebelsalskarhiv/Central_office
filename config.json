@@ -1,0 +1,23 @@
+{
+  "webdav": {
+    "url": "https://webdav.yandex.ru/OrderManager",
+    "username": "mebelsalskarhiv@yandex.ru",
+    "enabled": true
+  },
+  "sync": {
+    "interval": 5,
+    "enabled": true
+  },
+  "bonus": {
+    "percentage": 5.0,
+    "max_payment_percentage": 50.0,
+    "expiry_days": 365,
+    "enabled": true
+  },
+  "commerceml": {
+    "import_path": "",
+    "export_path": "",
+    "auto_import": false,
+    "auto_export": false
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": "6bda1b34-1417-11f0-adaf-60cf84acb436",
+      "name": "Кубай вода 19 л",
+      "category": "Вода 19 л",
+      "price": 290.0,
+      "unit": "Штука",
+      "image_url": "images/product_6bda1b34-1417-11f0-adaf-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882119948
+    },
+    {
+      "id": "78dd03ef-18f4-11f0-adb1-60cf84acb436",
+      "name": "Пилигрим вода 19 л",
+      "category": "Вода 19 л",
+      "price": 320.0,
+      "unit": "Штука",
+      "image_url": "images/product_78dd03ef-18f4-11f0-adb1-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882129467
+    },
+    {
+      "id": "82ad21fa-0e0c-11f0-adac-60cf84acb436",
+      "name": "Горная вершина 19 л вода",
+      "category": "Вода 19 л",
+      "price": 280.0,
+      "unit": "Штука",
+      "image_url": "images/product_82ad21fa-0e0c-11f0-adac-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882149767
+    },
+    {
+      "id": "b2427f72-1417-11f0-adaf-60cf84acb436",
+      "name": "Легенда гор вода 19 л",
+      "category": "Вода 19 л",
+      "price": 290.0,
+      "unit": "Штука",
+      "image_url": "",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777865997064
+    },
+    {
+      "id": "f7aed97a-0b24-11f0-adac-60cf84acb436",
+      "name": "Жемчужина кавказа 19л",
+      "category": "Вода 19 л",
+      "price": 225.0,
+      "unit": "Штука",
+      "image_url": "images/product_f7aed97a-0b24-11f0-adac-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882171164
+    },
+    {
+      "id": "b2427f74-1417-11f0-adaf-60cf84acb436",
+      "name": "Эльбрусинка вода для детей 19 л",
+      "category": "Вода 19 л",
+      "price": 320.0,
+      "unit": "Штука",
+      "image_url": "images/product_b2427f74-1417-11f0-adaf-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882178717
+    },
+    {
+      "id": "fd314058-57ee-11f0-adbd-60cf84acb436",
+      "name": "Царица Гор вода 19 л",
+      "category": "Вода 19 л",
+      "price": 220.0,
+      "unit": "Штука",
+      "image_url": "images/product_fd314058-57ee-11f0-adbd-60cf84acb436.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882185190
+    },
+    {
+      "id": "PROD-1777890753",
+      "name": "Джангури 19л",
+      "category": "Вода 19 л",
+      "price": 230.0,
+      "unit": "шт",
+      "image_url": "images/product_PROD-1777890753.jpg",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777882193167
+    },
+    {
+      "id": "PROD-1777890837",
+      "name": "Лесной ручей 19л",
+      "category": "Вода 19 л",
+      "price": 175.0,
+      "unit": "шт",
+      "image_url": "",
+      "is_active": true,
+      "barcode": "",
+      "description": "",
+      "updated_at": 1777880037534
+    }
+  ],
+  "generated_at": 1778500965899
+}

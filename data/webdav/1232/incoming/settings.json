@@ -1,0 +1,24 @@
+{
+  "bonus_settings": {
+    "enabled": true,
+    "earn_percentage": 5.0,
+    "min_order_amount": 500.0,
+    "max_bonus_per_order": 1000.0,
+    "expiry_days": 365
+  },
+  "delivery_settings": {
+    "default_time_slots": [
+      "10:00-12:00",
+      "12:00-14:00",
+      "14:00-16:00",
+      "16:00-18:00"
+    ],
+    "min_order_amount": 300.0
+  },
+  "sync_settings": {
+    "sync_interval_minutes": 10,
+    "keep_orders_days": 1,
+    "auto_cleanup": true
+  },
+  "generated_at": 1777635223895
+}
