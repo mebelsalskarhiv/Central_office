@@ -1,0 +1,10 @@
+# Wails Project Config
+
+projectName: OrderManager Central Office
+binaryName: central-office
+build:dir: build
+frontend:
+  dir: frontend/dist
+  install: false
+  build: false
+  serve: false

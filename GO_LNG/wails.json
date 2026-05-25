@@ -1,0 +1,18 @@
+{
+  "name": "OrderManager Central Office",
+  "assetdir": "frontend/dist",
+  "build:dir": "build",
+  "output:binary": "central-office",
+  "platforms": "windows/amd64",
+  "author": {
+    "name": "OrderManager Team",
+    "email": "support@ordermanager.com"
+  },
+  "info": {
+    "companyName": "OrderManager",
+    "productName": "Central Office",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2024 OrderManager",
+    "comments": "Order Management System"
+  }
+}

@@ -476,7 +476,7 @@ func (a *App) GetOrderDetails(orderID int64) (map[string]interface{}, error) {
 		var item models.OrderItem
 		var productID sql.NullInt64
 		err := rows.Scan(&item.ID, &item.OrderID, &productID, &item.ProductName,
-			&item.PriceAtMoment, &item.Quantity, &item.Sum, &item.ProductExternalID, &item.CreatedAt)
+			&item.PriceAtMoment, &item.Quantity, &item.Sum, &item.ProductExternalID)
 		if err != nil {
 			continue
 		}
@@ -886,7 +886,7 @@ func (a *App) SyncWithMobile(deviceID string) (map[string]interface{}, error) {
 		var orders []models.Order
 		for ordersRows.Next() {
 			var order models.Order
-			var addrID, lat, lon interface{}
+			var addrID interface{}
 			ordersRows.Scan(&order.ID, &order.ExternalID, &order.OrderNumber,
 				&order.ManagerID, &order.ClientID, &addrID, &order.AddressText,
 				&order.DeliveryDate, &order.DeliveryTimeSlot, &order.Status,
