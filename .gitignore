@@ -1,20 +1,20 @@
 ```
-# Compiled and build artifacts
-*.o
-*.obj
-*.out
+# Executables
+*.exe
+central-office.exe
+
+# Build artifacts
 build/
 dist/
+target/
 
 # Dependencies
+node_modules/
 vendor/
-*.mod
-*.sum
 
 # Logs and temp files
 *.log
 *.tmp
-*.swp
 
 # Environment
 .env
@@ -24,10 +24,18 @@ vendor/
 # Editors
 .vscode/
 .idea/
-*.swp
-*.swo
 
-# Go-specific
-*.test
-*.prof
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
 ```
