@@ -1,21 +1,31 @@
-﻿# Python
-__pycache__/
-*.py[cod]
-venv/
-env/
+```
+# Build artifacts
+GO_LNG/frontend/dist/
+GO_LNG/target/
+GO_LNG/build/
+
+# Dependencies
+GO_LNG/vendor/
+GO_LNG/node_modules/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
 .env
+.env.local
+*.env.*
 
-# Node
-node_modules/
-
-# IDE
+# Editors
 .vscode/
 .idea/
 
-# Logs
-logs/
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
+# Go specific
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.out
+```
